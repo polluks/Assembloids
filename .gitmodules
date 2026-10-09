@@ -1,0 +1,3 @@
+[submodule "gasm80"]
+	path = gasm80
+	url = https://github.com/nanochess/gasm80
