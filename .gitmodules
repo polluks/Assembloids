@@ -1,3 +1,6 @@
 [submodule "gasm80"]
 	path = gasm80
 	url = https://github.com/nanochess/gasm80
+[submodule "pletter"]
+	path = pletter
+	url = https://github.com/nanochess/Pletter
